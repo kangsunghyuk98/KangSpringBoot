@@ -1,4 +1,4 @@
-package BoardProject.Kang.Model;
+package BoardProject.Kang.domain;
 
 
 import javax.persistence.Entity;
